@@ -1,0 +1,88 @@
+# Core Web Framework
+Flask  
+Flask-Cors  
+Flask-SQLAlchemy  
+Flask-RESTful  
+Flask-WTF  
+Flask-Login  
+Flask-Mail  
+Flask-Migrate  
+
+# Slack API Integration
+slack_bolt  
+slack_sdk  
+
+# Database (PostgreSQL & ORM)
+psycopg2  
+sqlalchemy  
+alembic  
+
+# Networking & Hosting
+gunicorn  
+ngrok  
+pyngrok  
+cloudflare  
+
+# Machine Learning & AI
+torch  
+torchvision  
+transformers  
+tensorflow  
+tensorflow-cpu  
+tensorflow-gpu  
+tensorflow-hub  
+tensorflow-text  
+keras  
+scikit-learn  
+openai  
+sentence-transformers  
+spacy  
+nltk  
+gensim  
+
+# Deep Learning & Hugging Face
+huggingface_hub  
+diffusers  
+torchtext  
+fastai  
+
+# Data Handling & Visualization  
+numpy  
+pandas  
+matplotlib  
+seaborn  
+plotly  
+scipy  
+
+# NLP (Natural Language Processing)  
+fasttext  
+fuzzywuzzy  
+langchain  
+tiktoken  
+
+# Environment Variables & Security  
+python-dotenv  
+bcrypt  
+pyjwt  
+
+# Web Scraping & Automation  
+beautifulsoup4  
+selenium  
+scrapy  
+
+# Async & API Handling  
+aiohttp  
+requests  
+httpx  
+
+# Logging & Debugging  
+logging  
+sentry-sdk  
+
+# Computer Vision  
+opencv-python  
+Pillow  
+
+# Other Utilities  
+tqdm  
+pyyaml  
