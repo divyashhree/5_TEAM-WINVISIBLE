@@ -2,7 +2,7 @@
 
 ## Overview
 
-5_TEAM-WINVISIBLE is a cutting-edge AI-powered Slack integration that seamlessly connects Flask, PostgreSQL, OpenAI, Hugging Face Transformers, Cloudflare, Ngrok, and TensorFlow** to create a robust and scalable system. This solution enhances workplace automation, real-time communication, and intelligent response handling through AI-driven insights.
+5_TEAM-WINVISIBLE is a cutting-edge AI-powered Slack integration that seamlessly connects Flask, PostgreSQL, OpenAI, Hugging Face Transformers, Cloudflare, Ngrok, and TensorFlow to create a robust and scalable system. This solution enhances workplace automation, real-time communication, and intelligent response handling through AI-driven insights.
 
 ## Features
 
